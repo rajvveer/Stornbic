@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className={bgColor ? "app__navbar active" : "app__navbar"}>
       <div className="navbar__logo">
-        <p>STORNBIC.</p>
+        <p>D'task.</p>
       </div>
       <ul className="navbar__routes">
         {routes.map((route, index) => (
