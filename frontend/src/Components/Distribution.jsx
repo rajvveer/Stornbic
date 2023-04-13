@@ -69,7 +69,7 @@ const Distribution = () => {
       >
         <motion.div variants={item1} className="left__distribution">
           <div className="distribution__text">
-            <h1>Stornbic also works on your phone.</h1>
+            <h1>D'task also works on your phone.</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Blanditiis perferendis tempora beatae voluptates omnis saepe
