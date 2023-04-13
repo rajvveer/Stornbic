@@ -68,7 +68,7 @@ const Analytics = () => {
       >
         <motion.div variants={item1} className="left__analytics">
           <div className="left__text">
-            <h1>Okay, let's see Stornbic in numbers</h1>
+            <h1>Okay, let's see D'task in numbers</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Reprehenderit neque voluptas temporibus consectetur, accusantium,
